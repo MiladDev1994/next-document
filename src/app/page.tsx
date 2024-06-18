@@ -9,6 +9,7 @@ export default async function Home() {
     "Api Reference",
     "Architecture",
     "Community",
+    "pwa",
   ]
   
   return (

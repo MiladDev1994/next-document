@@ -5,7 +5,7 @@ import { useSelectedLayoutSegments } from 'next/navigation'
 export default function ExampleClientComponent() {
   const segments = useSelectedLayoutSegments()
  
-  console.log(segments)
+  // console.log(segments)
   return ( <></>
     // <ul>
     //   {segments.map((segment, index) => (
